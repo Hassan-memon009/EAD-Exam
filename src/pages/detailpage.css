@@ -1,0 +1,29 @@
+/* Add these styles to your CSS file or style component */
+
+.product-details-container {
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 70px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .product-image {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .product-price {
+    font-size: 18px;
+    color: #007bff; /* or your preferred color */
+  }
+  
